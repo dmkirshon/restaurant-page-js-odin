@@ -1,5 +1,5 @@
 function loadFrontPage() {
-    const frontPage = document.getElementById("content");
+    const frontPage = document.createElement("div");
 
     function createHeader() {
         const header = document.createElement('header');
@@ -19,14 +19,23 @@ function loadFrontPage() {
 
     function createSection() {
         const section = document.createElement('section');
+        const customerReaction = document.createElement('div');
         const quote = document.createElement('q');
         const author = document.createElement('figcaption');
+        const authorImage = document.createElement('img');
 
         quote.textContent = "It's the Taco Shop or nothing!";
         author.textContent = "\u2014 Satisfied Customer";
+        // Photo by logan hansen from Pexels
+        authorImage.setAttribute('src','./customer.jpg');
+        authorImage.classList = "section-img-customer";
 
-        section.appendChild(quote);
-        section.appendChild(author);
+        customerReaction.appendChild(quote);
+        customerReaction.appendChild(author);
+        
+
+        section.appendChild(authorImage);
+        section.appendChild(customerReaction);
 
         return section;
     }
@@ -39,9 +48,14 @@ function loadFrontPage() {
         return footer;
     }
 
+
+    frontPage.classList = 'content-front-page';
+
     frontPage.appendChild(createHeader());
     frontPage.appendChild(createSection());
     frontPage.appendChild(createFooter());
+    
+    return frontPage;
 }
 
 export default loadFrontPage;
