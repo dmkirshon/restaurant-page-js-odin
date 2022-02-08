@@ -1,0 +1,80 @@
+/* General Style */
+html {
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+*, 
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+img {
+    margin: 0;
+    padding: 0;
+}
+footer {
+    margin: 0;
+    padding: 0;
+}
+div {
+    margin: 0;
+    padding: 0;
+}
+
+#content {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/* Nav Styles */
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+}
+
+header h1 {
+    z-index: 1;
+    flex: 0;
+    margin-left: 2em;
+}
+
+.header-img-taco {
+    width: 20%;
+    transform: rotate(90deg);
+    z-index: 0;
+}
+
+/* Main section style */
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Footer */
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+    height: 3em;
+}
