@@ -1,3 +1,6 @@
+import tacosImg from "./tacos.jpg"
+import customerImg from "./customer.jpg"
+
 function loadFrontPage() {
     const frontPage = document.createElement("div");
 
@@ -6,7 +9,7 @@ function loadFrontPage() {
         const headerImageTaco = document.createElement('img');
         const headerHeading = document.createElement('h1');
 
-        headerImageTaco.setAttribute('src','./tacos.jpg');
+        headerImageTaco.setAttribute('src', tacosImg);
         headerImageTaco.classList = "header-img-taco";
 
         headerHeading.textContent = "Welcome to the Taco Shop!";
@@ -27,7 +30,7 @@ function loadFrontPage() {
         quote.textContent = "It's the Taco Shop or nothing!";
         author.textContent = "\u2014 Satisfied Customer";
         // Photo by logan hansen from Pexels
-        authorImage.setAttribute('src','./customer.jpg');
+        authorImage.setAttribute('src', customerImg);
         authorImage.classList = "section-img-customer";
 
         customerReaction.appendChild(quote);
