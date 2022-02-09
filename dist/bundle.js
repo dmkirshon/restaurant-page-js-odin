@@ -16,7 +16,7 @@
   \**************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./taco-background.png */ \"./src/taco-background.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"/* General Style */\\nhtml {\\n    box-sizing: border-box;\\n    font-family: -apple-system, BlinkMacSystemFont, sans-serif;\\n}\\n\\n*, \\n*:before,\\n*:after {\\n    box-sizing: inherit;\\n}\\n\\nbody {\\n    margin: 0;\\n    padding: 0;\\n}\\n\\nh1 {\\n    margin: 0;\\n    padding: 0;\\n}\\nimg {\\n    margin: 0;\\n    padding: 0;\\n}\\nfooter {\\n    margin: 0;\\n    padding: 0;\\n}\\nsection{\\n    margin: 0;\\n    padding: 0;\\n}\\ndiv {\\n    margin: 0;\\n    padding: 0;\\n}\\n\\n#content {\\n    height: 100vh;\\n}\\n\\n.content-front-page {\\n    padding: 4em;\\n    height: inherit;\\n    display: flex;\\n    flex-direction: column;\\n}\\n\\n/* Header Styles */\\n\\nheader {\\n    display: flex;\\n    justify-content: center;\\n    align-items: center;\\n    background-color: lightblue;\\n}\\n\\nheader h1 {\\n    z-index: 1;\\n    flex: 0;\\n    margin-left: 2em;\\n}\\n\\n.header-img-taco {\\n    width: 20%;\\n    transform: rotate(90deg);\\n    z-index: 0;\\n}\\n\\n/* Main section style */\\n\\nsection {\\n    flex: 1;\\n    display: flex;\\n    justify-content: center;\\n    align-items: center;\\n    background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \");\\n    background-color: beige;\\n    background-size: 200px;\\n    background-position: -30px;\\n    background-repeat: repeat;\\n}\\n\\nsection div {\\n    background-color: oldlace;\\n    border-radius: 20px;\\n    border: 5px solid black;\\n    padding: 5px;\\n}\\n\\nsection q {\\n    font-size: x-large;\\n    font-style: italic;\\n}\\n\\nsection figcaption {\\n    text-align: end;\\n    font-size: large;\\n    font-weight: bold;\\n}\\n\\n.section-img-customer {\\n    width: 200px;\\n    border: 10px black solid;\\n    border-radius: 20px;\\n    box-shadow: 2px 2px 10px 2px;\\n    margin-right: 2em;\\n}\\n\\n/* Footer */\\n\\nfooter {\\n    display: flex;\\n    justify-content: center;\\n    align-items: center;\\n    background-color: azure;\\n    height: 3em;\\n}\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/styles.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./images/taco-background.png */ \"./src/images/taco-background.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"/* General Style */\\nhtml {\\n    box-sizing: border-box;\\n    font-family: -apple-system, BlinkMacSystemFont, sans-serif;\\n}\\n\\n*, \\n*:before,\\n*:after {\\n    box-sizing: inherit;\\n}\\n\\nbody {\\n    margin: 0;\\n    padding: 0;\\n}\\n\\nh1 {\\n    margin: 0;\\n    padding: 0;\\n}\\nimg {\\n    margin: 0;\\n    padding: 0;\\n}\\nfooter {\\n    margin: 0;\\n    padding: 0;\\n}\\nsection{\\n    margin: 0;\\n    padding: 0;\\n}\\ndiv {\\n    margin: 0;\\n    padding: 0;\\n}\\n\\n#content {\\n    height: 100vh;\\n}\\n\\n.content-front-page {\\n    padding: 4em;\\n    height: 90%;\\n    display: flex;\\n    flex-direction: column;\\n}\\n\\n/* Header Styles */\\n\\nheader {\\n    display: flex;\\n    justify-content: center;\\n    align-items: center;\\n    background-color: lightblue;\\n}\\n\\nheader h1 {\\n    z-index: 1;\\n    flex: 0;\\n    margin-left: 2em;\\n}\\n\\n.header-img-taco {\\n    width: 20%;\\n    transform: rotate(90deg);\\n    z-index: 0;\\n}\\n\\n/* Main section style */\\n\\nsection {\\n    flex: 1;\\n    display: flex;\\n    justify-content: center;\\n    align-items: center;\\n    background-image: url(\" + ___CSS_LOADER_URL_REPLACEMENT_0___ + \");\\n    background-color: beige;\\n    background-size: 200px;\\n    background-position: -30px;\\n    background-repeat: repeat;\\n}\\n\\nsection div {\\n    background-color: oldlace;\\n    border-radius: 20px;\\n    border: 5px solid black;\\n    padding: 5px;\\n}\\n\\nsection q {\\n    font-size: x-large;\\n    font-style: italic;\\n}\\n\\nsection figcaption {\\n    text-align: end;\\n    font-size: large;\\n    font-weight: bold;\\n}\\n\\n.section-img-customer {\\n    width: 200px;\\n    border: 10px black solid;\\n    border-radius: 20px;\\n    box-shadow: 2px 2px 10px 2px;\\n    margin-right: 2em;\\n}\\n\\n\\n\\n/* Menu Styles */\\n\\n.menu-section {\\n    display: flex;\\n    justify-content: center;\\n    align-items: center;\\n    flex-direction: column;\\n    gap: 1em;\\n}\\n\\narticle {\\n    width: 30%;\\n    background-color: aliceblue;\\n    display: flex;\\n    flex-direction: column;\\n    justify-content: center;\\n    align-items: center;\\n    border: 5px solid black;\\n    padding: .5em 1em;\\n}\\n\\narticle p {\\n    text-align: center;\\n}\\n\\narticle img {\\n    width: 100px;\\n}\\n\\n/* Footer */\\n\\nfooter {\\n    display: flex;\\n    justify-content: center;\\n    align-items: center;\\n    background-color: azure;\\n    height: 3em;\\n}\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/styles.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -126,7 +126,7 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _tacos_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tacos.jpg */ \"./src/tacos.jpg\");\n/* harmony import */ var _customer_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./customer.jpg */ \"./src/customer.jpg\");\n\n\n\nfunction loadFrontPage() {\n    const frontPage = document.createElement(\"div\");\n\n    function createHeader() {\n        const header = document.createElement('header');\n        const headerImageTaco = document.createElement('img');\n        const headerHeading = document.createElement('h1');\n\n        headerImageTaco.setAttribute('src', _tacos_jpg__WEBPACK_IMPORTED_MODULE_0__);\n        headerImageTaco.classList = \"header-img-taco\";\n\n        headerHeading.textContent = \"Welcome to the Taco Shop!\";\n\n        header.appendChild(headerImageTaco);\n        header.appendChild(headerHeading);\n\n        return header;\n    }\n\n    function createSection() {\n        const section = document.createElement('section');\n        const customerReaction = document.createElement('div');\n        const quote = document.createElement('q');\n        const author = document.createElement('figcaption');\n        const authorImage = document.createElement('img');\n\n        quote.textContent = \"It's the Taco Shop or nothing!\";\n        author.textContent = \"\\u2014 Satisfied Customer\";\n        // Photo by logan hansen from Pexels\n        authorImage.setAttribute('src', _customer_jpg__WEBPACK_IMPORTED_MODULE_1__);\n        authorImage.classList = \"section-img-customer\";\n\n        customerReaction.appendChild(quote);\n        customerReaction.appendChild(author);\n        \n\n        section.appendChild(authorImage);\n        section.appendChild(customerReaction);\n\n        return section;\n    }\n\n    function createFooter() {\n        const footer = document.createElement('footer');\n\n        footer.textContent = \"Social Tacos\";\n\n        return footer;\n    }\n\n\n    frontPage.classList = 'content-front-page';\n\n    frontPage.appendChild(createHeader());\n    frontPage.appendChild(createSection());\n    frontPage.appendChild(createFooter());\n    \n    return frontPage;\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (loadFrontPage);\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/front.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _images_tacos_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./images/tacos.jpg */ \"./src/images/tacos.jpg\");\n/* harmony import */ var _images_customer_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./images/customer.jpg */ \"./src/images/customer.jpg\");\n\n\n\nfunction loadFrontPage() {\n    const frontPage = document.createElement(\"div\");\n\n    function createHeader() {\n        const header = document.createElement('header');\n        const headerImageTaco = document.createElement('img');\n        const headerHeading = document.createElement('h1');\n\n        headerImageTaco.setAttribute('src', _images_tacos_jpg__WEBPACK_IMPORTED_MODULE_0__);\n        headerImageTaco.classList = \"header-img-taco\";\n\n        headerHeading.textContent = \"Welcome to the Taco Shop!\";\n\n        header.appendChild(headerImageTaco);\n        header.appendChild(headerHeading);\n\n        return header;\n    }\n\n    function createSection() {\n        const section = document.createElement('section');\n        const customerReaction = document.createElement('div');\n        const quote = document.createElement('q');\n        const author = document.createElement('figcaption');\n        const authorImage = document.createElement('img');\n\n        quote.textContent = \"It's the Taco Shop or nothing!\";\n        author.textContent = \"\\u2014 Satisfied Customer\";\n        // Photo by logan hansen from Pexels\n        authorImage.setAttribute('src', _images_customer_jpg__WEBPACK_IMPORTED_MODULE_1__);\n        authorImage.classList = \"section-img-customer\";\n\n        customerReaction.appendChild(quote);\n        customerReaction.appendChild(author);\n        \n\n        section.appendChild(authorImage);\n        section.appendChild(customerReaction);\n\n        return section;\n    }\n\n    function createFooter() {\n        const footer = document.createElement('footer');\n\n        footer.textContent = \"Social Tacos\";\n\n        return footer;\n    }\n\n\n    frontPage.classList = 'content-front-page';\n\n    frontPage.appendChild(createHeader());\n    frontPage.appendChild(createSection());\n    frontPage.appendChild(createFooter());\n    \n    return frontPage;\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (loadFrontPage);\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/front.js?");
 
 /***/ }),
 
@@ -136,37 +136,97 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _front__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./front */ \"./src/front.js\");\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n\n\n\nconst content = document.getElementById('content');\n\ncontent.appendChild((0,_front__WEBPACK_IMPORTED_MODULE_0__[\"default\"])());\n\nconsole.log(\"Hello webpack!\");\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _front__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./front */ \"./src/front.js\");\n/* harmony import */ var _menu__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./menu */ \"./src/menu.js\");\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n\n\n\n\nconst content = document.getElementById('content');\nconst mainButton = document.createElement('button');\nconst menuButton = document.createElement('button');\nconst contactButton = document.createElement('button');\n\nmainButton.textContent = \"Home\";\nmenuButton.textContent = \"Menu\";\n\n\nmainButton.onclick = changeToMainPage;\nmenuButton.onclick = changeToMenuPage;\n\nfunction changeToMainPage() {\n    content.removeChild(content.lastChild);\n    content.appendChild((0,_front__WEBPACK_IMPORTED_MODULE_0__[\"default\"])());\n};\n\nfunction changeToMenuPage() {\n    content.removeChild(content.lastChild);\n    content.appendChild((0,_menu__WEBPACK_IMPORTED_MODULE_1__[\"default\"])());\n};\n\ncontent.appendChild(mainButton);\ncontent.appendChild(menuButton);\n\ncontent.appendChild((0,_front__WEBPACK_IMPORTED_MODULE_0__[\"default\"])());\n\nconsole.log(\"Hello webpack!\");\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/index.js?");
 
 /***/ }),
 
-/***/ "./src/customer.jpg":
-/*!**************************!*\
-  !*** ./src/customer.jpg ***!
-  \**************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+/***/ "./src/menu.js":
+/*!*********************!*\
+  !*** ./src/menu.js ***!
+  \*********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"03df93dacf2fcd3440a8.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/customer.jpg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _images_tacos_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./images/tacos.jpg */ \"./src/images/tacos.jpg\");\n/* harmony import */ var _images_street_taco_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./images/street-taco.jpg */ \"./src/images/street-taco.jpg\");\n/* harmony import */ var _images_waffle_taco_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./images/waffle-taco.jpg */ \"./src/images/waffle-taco.jpg\");\n/* harmony import */ var _images_ice_cream_taco_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./images/ice-cream-taco.jpg */ \"./src/images/ice-cream-taco.jpg\");\n/* harmony import */ var _images_sushi_taco_jpg__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./images/sushi-taco.jpg */ \"./src/images/sushi-taco.jpg\");\n/* harmony import */ var _images_fruit_taco_jpg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./images/fruit-taco.jpg */ \"./src/images/fruit-taco.jpg\");\n\n //Photo by ROMAN ODINTSOV from Pexels\n //Photo by Yaroslav Shuraev from Pexels\n //Photo by RODNAE Productions from Pexels\n//Photo by Eiliv Aceron from Pexels\n // Image by platinumproperties1 from Pixabay \n\n\nfunction loadMenuPage() {\n    const menuPage = document.createElement(\"div\");\n\n    function createMenuHeader() {\n        const header = document.createElement('header');\n        const headerImageTaco = document.createElement('img');\n        const headerHeading = document.createElement('h1');\n\n        headerImageTaco.setAttribute('src', _images_tacos_jpg__WEBPACK_IMPORTED_MODULE_0__);\n        headerImageTaco.classList = \"header-img-taco\";\n\n        headerHeading.textContent = \"Taco Shop Menu\";\n\n        header.appendChild(headerImageTaco);\n        header.appendChild(headerHeading);\n\n        return header;\n    }\n\n    function createMenu() {\n        const menuSection = document.createElement('Section');\n        menuSection.className = \"menu-section\";\n        const menuItems = [\n            {title: 'Street Taco', image: _images_street_taco_jpg__WEBPACK_IMPORTED_MODULE_1__, description: \"Don't mess with these tacos. Filled with all the traditional goodies.\"},\n            {title: 'Waffle Taco', image: _images_waffle_taco_jpg__WEBPACK_IMPORTED_MODULE_2__, description: \"A taco inspired by maple syrup and ready to start any day.\"},\n            {title: 'Sushi Taco', image: _images_sushi_taco_jpg__WEBPACK_IMPORTED_MODULE_4__, description: \"This taco rolled around in some rice, the rest is seaweed.\"},\n            {title: 'Fruit Taco', image: _images_fruit_taco_jpg__WEBPACK_IMPORTED_MODULE_5__, description: \"An apple a day, might as well put it in a taco.\"},\n            {title: 'Ice Cream Taco', image: _images_ice_cream_taco_jpg__WEBPACK_IMPORTED_MODULE_3__, description: \"This taco is great as a desert treat, or even if it's snowing.\"},\n        ]\n        \n        menuItems.forEach((item) =>{\n            const menuItem = document.createElement(\"article\");\n            menuItem.className = \"menuItem\";\n            \n            const menuItemTitle = document.createElement('h2');\n            const menuItemImage = document.createElement('img');\n            const menuItemDescription = document.createElement('p');\n\n            menuItemTitle.textContent = item.title;\n            menuItemImage.src = item.image;\n            menuItemDescription.textContent = item.description;\n\n            menuItem.appendChild(menuItemTitle);\n            menuItem.appendChild(menuItemImage);\n            menuItem.appendChild(menuItemDescription);\n            \n            menuSection.appendChild(menuItem);\n        });\n\n        \n\n        return menuSection;\n    }\n\n    menuPage.appendChild(createMenuHeader());\n    menuPage.appendChild(createMenu());\n\n    return menuPage;\n}\n\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (loadMenuPage);\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/menu.js?");
 
 /***/ }),
 
-/***/ "./src/taco-background.png":
+/***/ "./src/images/customer.jpg":
 /*!*********************************!*\
-  !*** ./src/taco-background.png ***!
+  !*** ./src/images/customer.jpg ***!
   \*********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"d13292e55469c42d4370.png\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/taco-background.png?");
+eval("module.exports = __webpack_require__.p + \"03df93dacf2fcd3440a8.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/customer.jpg?");
 
 /***/ }),
 
-/***/ "./src/tacos.jpg":
-/*!***********************!*\
-  !*** ./src/tacos.jpg ***!
-  \***********************/
+/***/ "./src/images/fruit-taco.jpg":
+/*!***********************************!*\
+  !*** ./src/images/fruit-taco.jpg ***!
+  \***********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"4e39217931787dc4710f.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/tacos.jpg?");
+eval("module.exports = __webpack_require__.p + \"6f5023b9a96c6f861a95.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/fruit-taco.jpg?");
+
+/***/ }),
+
+/***/ "./src/images/ice-cream-taco.jpg":
+/*!***************************************!*\
+  !*** ./src/images/ice-cream-taco.jpg ***!
+  \***************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"b8416a0a7aeede21a056.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/ice-cream-taco.jpg?");
+
+/***/ }),
+
+/***/ "./src/images/street-taco.jpg":
+/*!************************************!*\
+  !*** ./src/images/street-taco.jpg ***!
+  \************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"8bec949e3e421f46e81e.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/street-taco.jpg?");
+
+/***/ }),
+
+/***/ "./src/images/sushi-taco.jpg":
+/*!***********************************!*\
+  !*** ./src/images/sushi-taco.jpg ***!
+  \***********************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"13a29c54873ed5cb8aeb.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/sushi-taco.jpg?");
+
+/***/ }),
+
+/***/ "./src/images/taco-background.png":
+/*!****************************************!*\
+  !*** ./src/images/taco-background.png ***!
+  \****************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"d13292e55469c42d4370.png\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/taco-background.png?");
+
+/***/ }),
+
+/***/ "./src/images/tacos.jpg":
+/*!******************************!*\
+  !*** ./src/images/tacos.jpg ***!
+  \******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"4e39217931787dc4710f.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/tacos.jpg?");
+
+/***/ }),
+
+/***/ "./src/images/waffle-taco.jpg":
+/*!************************************!*\
+  !*** ./src/images/waffle-taco.jpg ***!
+  \************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"fdf8624208d87a47ba86.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/waffle-taco.jpg?");
 
 /***/ })
 

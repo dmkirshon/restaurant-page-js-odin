@@ -1,5 +1,5 @@
-import tacosImg from "./tacos.jpg"
-import customerImg from "./customer.jpg"
+import tacosImg from "./images/tacos.jpg";
+import customerImg from "./images/customer.jpg";
 
 function loadFrontPage() {
     const frontPage = document.createElement("div");
