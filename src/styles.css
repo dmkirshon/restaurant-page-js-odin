@@ -76,7 +76,9 @@ section {
     justify-content: center;
     align-items: center;
     background-image: url(./taco-background.png);
-    background-size: 14.5%;
+    background-color: beige;
+    background-size: 200px;
+    background-position: -30px;
     background-repeat: repeat;
 }
 
