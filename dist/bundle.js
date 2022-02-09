@@ -156,7 +156,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \*********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"03df93dacf2fcd3440a8.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/customer.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/03df93dacf2fcd3440a8.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/customer.jpg?");
 
 /***/ }),
 
@@ -166,7 +166,7 @@ eval("module.exports = __webpack_require__.p + \"03df93dacf2fcd3440a8.jpg\";\n\n
   \***********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"6f5023b9a96c6f861a95.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/fruit-taco.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/6f5023b9a96c6f861a95.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/fruit-taco.jpg?");
 
 /***/ }),
 
@@ -176,7 +176,7 @@ eval("module.exports = __webpack_require__.p + \"6f5023b9a96c6f861a95.jpg\";\n\n
   \***************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"b8416a0a7aeede21a056.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/ice-cream-taco.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/b8416a0a7aeede21a056.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/ice-cream-taco.jpg?");
 
 /***/ }),
 
@@ -186,7 +186,7 @@ eval("module.exports = __webpack_require__.p + \"b8416a0a7aeede21a056.jpg\";\n\n
   \************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"8bec949e3e421f46e81e.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/street-taco.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/8bec949e3e421f46e81e.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/street-taco.jpg?");
 
 /***/ }),
 
@@ -196,7 +196,7 @@ eval("module.exports = __webpack_require__.p + \"8bec949e3e421f46e81e.jpg\";\n\n
   \***********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"13a29c54873ed5cb8aeb.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/sushi-taco.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/13a29c54873ed5cb8aeb.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/sushi-taco.jpg?");
 
 /***/ }),
 
@@ -206,7 +206,7 @@ eval("module.exports = __webpack_require__.p + \"13a29c54873ed5cb8aeb.jpg\";\n\n
   \****************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"d13292e55469c42d4370.png\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/taco-background.png?");
+eval("module.exports = __webpack_require__.p + \"images/d13292e55469c42d4370.png\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/taco-background.png?");
 
 /***/ }),
 
@@ -216,7 +216,7 @@ eval("module.exports = __webpack_require__.p + \"d13292e55469c42d4370.png\";\n\n
   \******************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"4e39217931787dc4710f.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/tacos.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/4e39217931787dc4710f.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/tacos.jpg?");
 
 /***/ }),
 
@@ -226,7 +226,7 @@ eval("module.exports = __webpack_require__.p + \"4e39217931787dc4710f.jpg\";\n\n
   \************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"fdf8624208d87a47ba86.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/waffle-taco.jpg?");
+eval("module.exports = __webpack_require__.p + \"images/fdf8624208d87a47ba86.jpg\";\n\n//# sourceURL=webpack://restaurant-page-js-odin/./src/images/waffle-taco.jpg?");
 
 /***/ })
 
