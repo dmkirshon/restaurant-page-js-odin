@@ -1,5 +1,6 @@
-import loadFrontPage from './front';
-import loadMenuPage from './menu';
+import loadFrontPage from './front.js';
+import loadMenuPage from './menu.js';
+import loadContactPage from './contact.js';
 import css from "./styles.css";
 
 const content = document.getElementById('content');
@@ -9,10 +10,12 @@ const contactButton = document.createElement('button');
 
 mainButton.textContent = "Home";
 menuButton.textContent = "Menu";
+contactButton.textContent = "Contact";
 
 
 mainButton.onclick = changeToMainPage;
 menuButton.onclick = changeToMenuPage;
+contactButton.onclick = changeToContactPage;
 
 function changeToMainPage() {
     content.removeChild(content.lastChild);
@@ -24,9 +27,15 @@ function changeToMenuPage() {
     content.appendChild(loadMenuPage());
 };
 
+function changeToContactPage() {
+    content.removeChild(content.lastChild);
+    content.appendChild(loadContactPage());
+};
+
 content.appendChild(mainButton);
 content.appendChild(menuButton);
+content.appendChild(contactButton);
 
-content.appendChild(loadFrontPage());
+content.appendChild(loadContactPage());
 
 console.log("Hello webpack!");

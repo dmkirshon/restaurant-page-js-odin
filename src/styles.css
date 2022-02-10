@@ -108,9 +108,7 @@ section figcaption {
     margin-right: 2em;
 }
 
-
-
-/* Menu Styles */
+/* Menu Style */
 
 .menu-section {
     display: flex;
@@ -137,6 +135,21 @@ article p {
 
 article img {
     width: 100px;
+}
+
+/* Contact Style */
+
+.contact-section {
+    display: flex;
+}
+
+.contact-block {
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 1em;
+    white-space: pre;
+    text-align: center;
+    background-color: antiquewhite;
 }
 
 /* Footer */
